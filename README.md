@@ -1,41 +1,93 @@
-<h1 align="center">Hi 👋, I'm Disha Bhondve</h1>
-<h3 align="center">Data Analytics | Data Science</h3>
+<!-- HEADER BANNER -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=220&section=header&text=Hi%20there,%20I'm%20Disha%20Bhondve&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=Data%20Analytics%20%7C%20Data%20Science&descAlignY=62&descSize=20&animation=fadeIn" width="100%"/>
+</p>
+
+<!-- TYPING TEXT -->
+
 <div align="center">
 
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=monospace&size=24&duration=3000&pause=1000&color=9B8AFB&center=true&vCenter=true&width=800&lines=Always+shipping%2C+always+learning;Aspiring+Data+Analyst;Aspiring+Data+Scientist;Python+%E2%80%A2+SQL+%E2%80%A2+Power+BI;Turning+data+into+insights)](https://git.io/typing-svg)
-
-### 🌐 Connect With Me
-
-[LinkedIn](https://www.linkedin.com/in/disha-bhondve24/) •
-[Email](mailto:bhondavedisha9011@gmail.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=monospace&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Always+learning%2C+always+growing;Aspiring+Data+Analyst;Aspiring+Data+Scientist;Turning+data+into+insights;Building+data-driven+projects)](https://git.io/typing-svg)
 
 </div>
 
+<br>
+
+<!-- SOCIAL LINKS -->
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/disha-bhondve24/">
+<img src="https://img.shields.io/badge/LINKEDIN-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:bhondavedisha9011@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-4B1F6F?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://github.com/disha24ds">
+<img src="https://img.shields.io/badge/GITHUB-24103A?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=disha24ds&label=Profile%20views&color=0e75b6&style=flat" alt="disha24ds" /> </p>
 
-## 💫 About Me
-- 🌱 I’m currently building **data-driven projects**
+<br>
 
-- 💬 Ask me about **SQL, machine learning, Data Visualization, Power BI**
+<!-- ABOUT ME -->
 
-- 📫 How to reach me **bhondavedisha9011@gmail.com**
+<h2 align="center">💫 About Me</h2>
 
-- ⚡ Fun fact **I believe every project is an opportunity to learn something new.**
+<div align="left">
+
+🟣 📊 Interested in Data Analytics & Data Science
+
+🟣 🐍 Learning and working with Python
+
+🟣 💬 Ask me about SQL, machine learning, Data Visualization, Power BI
+
+🟣 ⚡ Fun fact: I believe every project is an opportunity to learn something new.
+
+🟣 📫 Reach me at bhondavedisha9011@gmail.com
+
+</div>
 
 
+## 🛠️ Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=disha24ds&show_icons=true&locale=en&layout=compact" alt="disha24ds" /></p>
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" height="38"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=disha24ds&show_icons=true&locale=en" alt="disha24ds" /></p>
+### 📊 Data Analytics & Visualization
+<img src="https://skillicons.dev/icons?i=numpy,pandas" height="38"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" height="30"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="30"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" height="30"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=disha24ds&" alt="disha24ds" /></p>
+### 🤖 Machine Learning & AI
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch" height="38"/>
+<img src="https://img.shields.io/badge/Statistics-6A0DAD?style=flat-square" height="30"/>
+<img src="https://img.shields.io/badge/EDA-7B2CBF?style=flat-square" height="30"/>
+
+### 🗄️ Database & Cloud
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,aws,azure" height="38"/>
+
+### 🧰 Tools & Development
+<img src="https://skillicons.dev/icons?i=jupyter,vscode,git,github,streamlit,flask" height="38"/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Stats](./profile/stats.svg)
+
+![Top Languages](./profile/top-langs.svg)
+
+</div>
 
 ## 🐍 Contribution Snake
 
