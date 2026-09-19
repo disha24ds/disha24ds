@@ -32,12 +32,12 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-               - name: Save Stats
-          run: |
-            git config user.name "github-actions[bot]"
-            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add profile/*.svg
-            git commit -m "Update GitHub stats" || true
-            git fetch origin main
-            git rebase origin/main
-            git push origin main
+      - name: Save Stats
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update GitHub stats" || true
+          git fetch origin main
+          git rebase origin/main
+          git push origin main
