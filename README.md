@@ -79,15 +79,19 @@
 ### 🧰 Tools & Development
 <img src="https://skillicons.dev/icons?i=jupyter,vscode,git,github,streamlit,flask" height="38"/>
 
-## 📊 GitHub Stats
+
+### 📊 GitHub Stats
 
 <div align="center">
-
-![Stats](./profile/stats.svg)
-
-![Top Languages](./profile/top-langs.svg)
-
+  <img height="165" src="./profile/stats.svg" alt="GitHub Stats" />
+  <img height="165" src="./profile/top-langs.svg" alt="Top Languages" />
 </div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=disha24ds&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
 
 ## 🐍 Contribution Snake
 
